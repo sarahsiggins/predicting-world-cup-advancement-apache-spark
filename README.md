@@ -7,7 +7,6 @@
 
 - Joseph Bannon (jb9war)
 - Sarah Christen (sc8rg)
-- Carlos Canales (csz3rb)
 
 ---
 
